@@ -1,0 +1,37 @@
+,Tag,Family,Description
+0,CC,Misc,Coordinating conjunction
+1,CD,Misc,Cardinal number
+2,DT,Misc,Determiner
+3,EX,Misc,Existential there
+4,FW,Misc,Foreign word
+5,IN,Misc,Preposition or subordinating conjunction
+6,JJ,Adjective,Adjective
+7,JJR,Adjective,"Adjective, comparative"
+8,JJS,Adjective,"Adjective, superlative"
+9,LS,Misc,List item marker
+10,MD,Misc,Modal
+11,NN,Noun,"Noun, singular or mass"
+12,NNS,Noun,"Noun, plural"
+13,NNP,Noun,"Proper noun, singular"
+14,NNPS,Noun,"Proper noun, plural"
+15,PDT,Misc,Predeterminer
+16,POS,Misc,Possessive ending
+17,PRP,Pronoun,Personal pronoun
+18,PRP$,Pronoun,Possessive pronoun
+19,RB,Adverb,Adverb
+20,RBR,Adverb,"Adverb, comparative"
+21,RBS,Adverb,"Adverb, superlative"
+22,RP,Misc,Particle
+23,SYM,Misc,Symbol
+24,TO,Misc,to
+25,UH,Misc,Interjection
+26,VB,Verb,"Verb, base form"
+27,VBD,Verb,"Verb, past tense"
+28,VBG,Verb,"Verb, gerund or present participle"
+29,VBN,Verb,"Verb, past participle"
+30,VBP,Verb,"Verb, non-3rd person singular present"
+31,VBZ,Verb,"Verb, 3rd person singular present"
+32,WDT,Misc,Wh-determiner
+33,WP,Pronoun,Wh-pronoun
+34,WP$,Pronoun,Possessive wh-pronoun
+35,WRB,Adverb,Wh-adverb
