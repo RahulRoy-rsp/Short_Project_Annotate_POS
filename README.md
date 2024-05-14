@@ -38,4 +38,4 @@ Ever thought of finding out Parts of Speech from a sentence and display them col
 
 7. **Performance Optimization**: Optimize the performance of the application, including faster processing times and reduced resource utilization, to ensure smooth and efficient user interactions, especially for large text inputs.
 
-[**Click to see demo Usage**](https://github.com/RahulRoy-rsp/Short_Project_Annotate_POS/main/demoUsage.md)
+[**Click to see demo Usage**](https://github.com/RahulRoy-rsp/Short_Project_Annotate_POS/blob/main/demoUsage.md)
